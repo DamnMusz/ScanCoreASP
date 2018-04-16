@@ -1,0 +1,11 @@
+c:\users\dionisio\documents\visual studio 2017\Projects\ScanCoreASP\ScanCoreASP\obj\Debug\netcoreapp2.0\ScanCoreASP.csprojResolveAssemblyReference.cache
+c:\users\dionisio\documents\visual studio 2017\Projects\ScanCoreASP\ScanCoreASP\obj\Debug\netcoreapp2.0\ScanCoreASP.csproj.CoreCompileInputs.cache
+c:\users\dionisio\documents\visual studio 2017\Projects\ScanCoreASP\ScanCoreASP\obj\Debug\netcoreapp2.0\ScanCoreASP.AssemblyInfoInputs.cache
+c:\users\dionisio\documents\visual studio 2017\Projects\ScanCoreASP\ScanCoreASP\obj\Debug\netcoreapp2.0\ScanCoreASP.AssemblyInfo.cs
+c:\users\dionisio\documents\visual studio 2017\Projects\ScanCoreASP\ScanCoreASP\bin\Debug\netcoreapp2.0\ScanCoreASP.deps.json
+c:\users\dionisio\documents\visual studio 2017\Projects\ScanCoreASP\ScanCoreASP\bin\Debug\netcoreapp2.0\ScanCoreASP.runtimeconfig.json
+c:\users\dionisio\documents\visual studio 2017\Projects\ScanCoreASP\ScanCoreASP\bin\Debug\netcoreapp2.0\ScanCoreASP.runtimeconfig.dev.json
+c:\users\dionisio\documents\visual studio 2017\Projects\ScanCoreASP\ScanCoreASP\bin\Debug\netcoreapp2.0\ScanCoreASP.dll
+c:\users\dionisio\documents\visual studio 2017\Projects\ScanCoreASP\ScanCoreASP\bin\Debug\netcoreapp2.0\ScanCoreASP.pdb
+c:\users\dionisio\documents\visual studio 2017\Projects\ScanCoreASP\ScanCoreASP\obj\Debug\netcoreapp2.0\ScanCoreASP.dll
+c:\users\dionisio\documents\visual studio 2017\Projects\ScanCoreASP\ScanCoreASP\obj\Debug\netcoreapp2.0\ScanCoreASP.pdb
